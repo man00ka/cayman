@@ -1,11 +1,12 @@
 ---
 layout: man00ka
+title: "man00ka"
 ---
 
 ## Me
 
 Hey there, welcome to my portfolio. My name is Emanuel Kirsch. I graduated in **Computational Linguistics** at 
-Friedrich-Alexender-University Erlangen-Nuernberg in March 2024. I am interested in
+Friedrich-Alexender-University Erlangen-Nuremberg in March 2024. I am interested in
 NLP, game programming, music / game sfx and game jams 🕹🎮🍯
 
 ---
@@ -45,7 +46,15 @@ A small fun project to try out the **pygame** engine and learn about **software 
 ![sssnakeevader](sssnakeevader.png)
 
 ___
+### Clickbait spoiling – SemEval23 (code snippet)
+Code snippet for converting and pre-processing training and evaluation data from a 
+SemEval 2023 task so the data fit the fine-tuning process of a DistilBert model for question answering
+as described [here](https://huggingface.co/learn/nlp-course/chapter7/7?fw=pt#question-answering)
+on huggingface.com.
 
+[Code snippet and details](./pre-processing-semeval23.html)
+
+___
 to be continued...
 
 
