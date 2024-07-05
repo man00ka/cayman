@@ -6,7 +6,7 @@ layout: man00ka
 
 Hey there, welcome to my portfolio. My name is Emanuel Kirsch. I graduated in **Computational Linguistics** at 
 Friedrich-Alexender-University Erlangen-Nuernberg in March 2024. I am interested in
-NLP, game programming, music / game sfx and game james 🕹🎮🍯
+NLP, game programming, music / game sfx and game jams 🕹🎮🍯
 
 ---
 ## Projects
