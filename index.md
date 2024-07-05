@@ -17,17 +17,17 @@ currently developing for fun.
 A two-tiered toxic language filter, toxic span detection and keyword extractor for a
 speech to image generative NLP pipeline.
 
-> 🔗 [text-processing-module](https://github.com/man00ka/text-processing-module)
+> 🔗 [text-processing-module](https://github.com/man00ka/text-processing-module) – github
 ![toxicity_filter_demo](toxicity_scores.png)
 
-It was developed as part of my internship at Deutsche Museum Nuremberg (Zukunftsmuseum).
+It was developed as part of my internship at **Deutsches Museum Nuremberg** (Zukunftsmuseum).
 
 ___
 ### Web-App
-For my bachelor thesis I developed a small web app providing an online form as means to
+For my bachelor thesis I developed a small **web app** providing an online form as means to
 collect human written texts that were compared to AI-generated texts.
 
-> 🔗 [ba-web-form](https://github.com/man00ka/ba-web-form)
+> 🔗 [ba-web-form](https://github.com/man00ka/ba-web-form) – github
 
 The app was written in python 
 [flask](https://flask.palletsprojects.com/en/3.0.x/installation/#python-version), 
@@ -38,9 +38,9 @@ The online form is available [here](https://online-formular.vercel.app).
 
 ___
 ### Software design patterns
-A small fun project to try out the pygame engine and learn about software design patterns.
+A small fun project to try out the **pygame** engine and learn about **software design patterns**.
 
-> 🔗 [sssnakeevader 🐍](https://github.com/man00ka/sssnakeevader_new)
+> 🔗 [sssnakeevader 🐍](https://github.com/man00ka/sssnakeevader_new) – github
 
 ![sssnakeevader](sssnakeevader.png)
 
